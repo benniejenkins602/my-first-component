@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="my_first_component" name="my_first_component">20d47d4c2f7c2010bd42802df699b6aa</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 18:38:16</sys_created_on>
+        <sys_id>20d47d4c2f7c2010bd42802df699b6ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>20d47d4c2f7c2010bd42802df699b6aa</sys_name>
+        <sys_package display_value="my first component" source="x_557588_my_first">f4a4b94c2f7c2010bd42802df699b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my first component">f4a4b94c2f7c2010bd42802df699b6ed</sys_scope>
+        <sys_update_name>sys_embedded_help_role_20d47d4c2f7c2010bd42802df699b6ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 18:38:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

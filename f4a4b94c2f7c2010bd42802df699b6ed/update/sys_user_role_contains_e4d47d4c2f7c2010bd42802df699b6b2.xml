@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="my_first_component" name="my_first_component">20d47d4c2f7c2010bd42802df699b6aa</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 18:38:16</sys_created_on>
+        <sys_id>e4d47d4c2f7c2010bd42802df699b6b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.my_first_component</sys_name>
+        <sys_package display_value="my first component" source="x_557588_my_first">f4a4b94c2f7c2010bd42802df699b6ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my first component">f4a4b94c2f7c2010bd42802df699b6ed</sys_scope>
+        <sys_update_name>sys_user_role_contains_e4d47d4c2f7c2010bd42802df699b6b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 18:38:16</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
